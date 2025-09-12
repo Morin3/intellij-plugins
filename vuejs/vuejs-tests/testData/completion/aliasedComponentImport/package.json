@@ -5,7 +5,7 @@
   "scripts": {},
   "private": true,
   "devDependencies": {
-    "@nx/cypress": "^16.5.5",
+    "@nx/cypress": "^17.0.0",
     "@nx/eslint-plugin": "16.5.5",
     "@nx/js": "16.5.5",
     "@nx/linter": "16.5.5",
