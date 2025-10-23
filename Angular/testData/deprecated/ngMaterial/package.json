@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@angular/core": "0.0.0",
+    "@angular/core": "19.0.4",
     "material-test": "0.0.0"
   }
 }
